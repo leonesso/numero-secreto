@@ -1,7 +1,5 @@
 # Jogo do Número Secreto
 
-**Descrição curta:** Projeto para criar um jogo de adivinhação de número secreto.
-
 ## Sobre
 Projeto utilizado nos cursos de lógica de programação da Alura.
 
