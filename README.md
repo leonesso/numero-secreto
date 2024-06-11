@@ -1,7 +1,7 @@
 # Jogo do Número Secreto
 
 ## Sobre
-Projeto utilizado nos cursos de lógica de programação da Alura.
+Projeto utilizado no curso "Git e GitHub: compartilhando e colaborando em projetos" da Alura.
 
 ## Tecnologias
 <div>
